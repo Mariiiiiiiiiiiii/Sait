@@ -16,18 +16,21 @@ h1 {
 }
     
 .images1 {
-    display: flex;
-    justify-content: center;
+    margin: 0 0 5% 0;
+    width: auto;
+    height: auto;
 }
 
 .images2 {
-    display: flex;
-    justify-content: center;
+    margin: 0 0 5% 0;
+    width: auto;
+    height: auto;
 }
 
 .images3 {
-    display: flex;
-    justify-content: center;
+    margin: 0 0 5% 0;
+    width: auto;
+    height: auto;
 }
     
 h2 {
