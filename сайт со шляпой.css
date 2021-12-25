@@ -1,0 +1,132 @@
+body {
+    position: absolute;
+    width: 1400px;
+    height: 684px;
+    left: 0px;
+    top: 0px;
+    background: #181617;
+    
+}
+    
+h3 {
+    position: absolute;
+    width: 69px;
+    height: 21px;
+    left: calc(50% - 69px/2 - 446.5px);
+    top: 186px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #A07B50;
+}
+    
+h1 {
+    position: absolute;
+    width: 622px;
+    height: 107px;
+    left: 202px;
+    top: 226px;
+    font-family: Yeseva One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 52px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+    
+p{
+    position: absolute;
+    width: 383px;
+    height: 22px;
+    left: calc(50% - 383px/2 - 287.5px);
+    top: 364px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #A07B50;
+}
+
+.Vector {
+    position: absolute;
+    width: 0px;
+    height: 77.5px;
+    left: -120px;
+    top: 95px;
+    border: 0.5px solid rgba(255, 255, 255, 0.61);
+}
+
+.bgi {
+    position: absolute;
+    /*height: 680px;*/
+    right: -90px;
+    /*left: 370px;*/
+    top: 0px;
+}
+    
+.crown {
+    position: absolute;
+    
+    left: 955px;
+    top: 5px;
+}
+    
+.button {
+    position: absolute;
+    width: 200px;
+    height: 52px;
+    left: 204px;
+    top: 458px;
+    border: 0.5px solid #A07B50;
+    box-sizing: border-box;
+}
+
+p.butt{
+    position: absolute;
+    width: 383px;
+    height: 22px;
+    left: 37px;
+    top: -3px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+}
+
+section{
+    position: absolute;
+    width: 130px;
+    height: 17px;
+    left: 239px;
+    top: 476px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.background {
+    position: absolute;
+    width: 1019px;
+    height: 684px;
+    left: 347px;
+    top: 0px;
+    background: url(bg.png);
+}
+
+.socset {
+    position: absolute;
+    left: 5.71%;
+    right: 93.19%;
+    top: 100%;
+    bottom: 48.84%;
+    
+}
