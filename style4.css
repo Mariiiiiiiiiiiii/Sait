@@ -1,0 +1,136 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    background: white;
+}
+.header {
+    background-color: black;
+    background: url("bg.jpg") center;
+    background-size: unset;
+    background-repeat: no-repeat;
+    height: 980px;
+    text-align: center;
+}
+.text {
+    padding-top: 150px;
+    color: white;
+}
+.title-text {
+    color:  yellow;
+    font-size: 132px;
+}
+
+.nav  {
+    padding: auto;
+    height: 80px;
+    width: 100%;
+}
+.nav-1 {
+    background: url("nav.jpg");
+    padding: auto;
+    height: 80px;
+    width: 100%;
+}
+
+.nav ul li {
+    color: white;
+    display: inline-block;
+    height: 80px;
+    line-height: 80px;
+    list-style: none;
+    padding: 0 10px;
+    transition: background .5s;
+}
+
+.nav-1 ul li {
+    color: white;
+    display: inline-block;
+    height: 80px;
+    line-height: 80px;
+    list-style: none;
+    padding: 0 10px;
+    transition: background .5s;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul {
+    margin: 0;
+    display: list-item;
+}
+.btn {
+    text-decoration: none;
+    background:rgb(182, 176, 166);
+    cursor: pointer;
+    transition: background .5s;
+    padding: 10px 30px;
+}
+.btn:hover , .nav-1 ul li:hover,
+.btn:hover , .nav ul li:hover {
+    text-decoration: none;
+    background: #021022;
+    cursor: pointer;
+    transition: background .5s;
+}
+.main {
+    background: white;
+}
+.main h2, p {
+    color: black;
+}
+.main img {
+    float: left;
+    margin: 40px 60px 50px 80px;
+}
+.main .container {
+    margin: 80px auto;
+}
+.h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.div {
+    display: block;
+}
+.footer {
+    background: gray;
+    height: 80px;
+    padding-bottom: 50px;
+}
+.footer p {
+    margin: 0;
+    color: white;
+    font-size: 14px;
+    height: 80px;
+    line-height: 80px;  
+}
+.container {
+    margin: 0 auto;
+    max-width: 940px;
+    padding: 0 10px;
+    
+}
+.background {
+    background: url("bgbottom.jpg") center center;
+    background-size: cover;
+    height: 600px;
+    color: rgb(205, 214, 80);
+    text-align: left;
+    padding-top: 50px;
+}
+.background h2 {
+    color:orangered;
+}
+
+.background p {
+    color:rgb(229, 255, 0);
+    padding: auto;
+}
+
